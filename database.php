@@ -1,7 +1,7 @@
 <?php
 
 // Import all databas classes
-require './classes/animal';
+require './classes/animal.php';
 
 
 /** Database connection manager */
